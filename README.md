@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](ComfyUI_00174_.png)
+<img src="ComfyUI_00174_.png" width="250" alt="Logo">
 
 **A fast and easy-to-use image format converter for Adobe Stock**
 
